@@ -14,3 +14,20 @@
     - https://github.com/haroldjose30/AJDependencyInjection
  - AJHttpClient:  Developed by me has responsability to be an independent module responsible for all HTTP request handlers. 
     - https://github.com/haroldjose30/AJHttpClient
+
+
+# App Screenshots
+
+| Name | Image |
+| --- | --- |
+| Main                     | <img src="./Screens/MainPage.png" width="200" height="400"> | 
+| PopulationByYear Chart   | <img src="./Screens/PopulationByYearChart.png" width="200" height="400"> |
+| PopulationByYear Data    | <img src="./Screens/PopulationByYearData.png" width="200" height="400"> | 
+| PopulationByState Chart  | <img src="./Screens/PopulationByStateChart.png" width="200" height="400"> |
+| PopulationByState Data   | <img src="./Screens/PopulationByStateData.png" width="200" height="400"> | 
+| PopulationByState Picker |<img src="./Screens/PopulationByStatePicker.png" width="200" height="400">|
+
+
+
+
+
