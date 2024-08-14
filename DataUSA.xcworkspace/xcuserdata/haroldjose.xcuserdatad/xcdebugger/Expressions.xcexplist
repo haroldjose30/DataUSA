@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "HttpClientSpy.send&lt;&#x3c4;_0_0&gt;(_:):HttpClientSpy.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sendResponse">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PopulationByStateViewModel.loadData():PopulationByStateViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedYear">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

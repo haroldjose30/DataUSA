@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "ajdependencyinjection",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/haroldjose30/AJDependencyInjection",
+      "state" : {
+        "revision" : "48f93105289ece7f0c02e13e3dffbe95d792a566",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "ajhttpclient",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/haroldjose30/AJHttpClient",
+      "state" : {
+        "revision" : "dd68acc1da6088077620e614e3a4146000f18bda",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
